@@ -2401,7 +2401,7 @@
 		}
 
 		.icon.major {
-			background: #666;
+			background: #667ce1;
 			border-radius: 100%;
 			color: #ffffff;
 			cursor: default;
@@ -2417,27 +2417,27 @@
 			}
 
 			.icon.major.accent1 {
-				background: #666;
+				background: #667ce1;
 				color: #ffffff;
 			}
 
 			.icon.major.accent2 {
-				background: #000000;
+				background: #667ce1;
 				color: #ffffff;
 			}
 
 			.icon.major.accent3 {
-				background: #000000;
+				background: #667ce1;
 				color: #ffffff;
 			}
 
 			.icon.major.accent4 {
-				background: #000000;
+				background: #667ce1;
 				color: #ffffff;
 			}
 
 			.icon.major.accent5 {
-				background: #000000;
+				background: #667ce1;
 				color: #ffffff;
 			}
 
